@@ -30,12 +30,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'YOUR_WEB_API_KEY',
-    appId: 'YOUR_WEB_APP_ID',
-    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-    projectId: 'YOUR_PROJECT_ID',
-    authDomain: 'YOUR_PROJECT_ID.firebaseapp.com',
-    storageBucket: 'YOUR_PROJECT_ID.appspot.com',
+    apiKey: 'AIzaSyTest123456789_WebAPIKey_Placeholder',
+    appId: '1:123456789:web:abcdef1234567890abcd',
+    messagingSenderId: '123456789',
+    projectId: 'flutter-smart-checkin-6e909',
+    authDomain: 'flutter-smart-checkin-6e909.firebaseapp.com',
+    storageBucket: 'flutter-smart-checkin-6e909.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
